@@ -1,0 +1,50 @@
+body,
+input,
+textarea,
+keygen,
+select,
+button,
+isindex {
+  font-family: 'QlikView Sans';
+  src: url(../../resources/css/fonts/qlikview-sans.ttf) format('truetype');
+  font-style: normal;
+  font-size: 13px;
+  color: #595959;
+}
+
+.main {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 2vh;
+}
+
+#backup {
+  margin-left: 1vh;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  width: 50%;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 4px;
+
+}
+
+td {
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+input[type="checkbox"] {
+  display: block;
+  margin: 0 auto;
+}

@@ -1,0 +1,17 @@
+app-to-json.qext;
+app-to-json.html;
+app-to-json.js;
+app-to-json.css;
+css/jquery.dataTables.min.css;
+css/app-to-json.css;
+images/loading.gif;
+images/preview.png;
+images/sort_asc.png;
+images/sort_asc_disabled.png;
+images/sort_both.png;
+images/sort_desc.png;
+images/sort_desc_disabled.png;
+js/jquery.dataTables.js;
+js/qsocks.bundle.js;
+js/serialize.bundle.js;
+js/jszip.js;
